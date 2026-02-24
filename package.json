@@ -1,0 +1,24 @@
+{
+  "name": "backend-course-2026-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariana8l8/backend-course-2026-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mariana8l8/backend-course-2026-3/issues"
+  },
+  "homepage": "https://github.com/Mariana8l8/backend-course-2026-3#readme",
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}
